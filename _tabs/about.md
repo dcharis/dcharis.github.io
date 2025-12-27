@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 3
 ---
 
-I am a computer engineer working in the fields of **perception** and **computer vision**.
+I am a PhD researcher working in the field of **visual perception** for **legged robots**.
 
-I am currently employed as a software engineer specializing in developing real-time algorithms for vision systems. My expertise lies in writing high-performance C++ code optimized for edge devices, particularly embedded platforms (NVIDIA Jetson).
+My work focuses on designing and implementing high-performance C++ algorithms for perception, optimized for embedded and edge platforms (NVIDIA Jetson). I am particularly interested in applied research at the intersection of computer vision, robotics, and autonomous systems.
 
-My background is in computer science and software engineering, holding a Diploma in Electrical and Computer Engineering. In the past I have worked as a machine learning researcher for vision and remote sensing.
+I hold a Diploma in Electrical and Computer Engineering from NTUA. I also have prior industry and research experience as a computer vision engineer and as a machine learning researcher in vision and remote sensing.
